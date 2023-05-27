@@ -1,7 +1,7 @@
 # Tips-for-finding-a-plane
 A component used to load AR models.
 # The first part
-![IMG_1227](https://github.com/S-way520/Tips-for-finding-a-plane/assets/95877651/c3249dee-09ce-4d57-9f76-811fc5696908)
+![IMG_1234](https://github.com/S-way520/Tips-for-finding-a-plane/assets/95877651/09e90606-3b97-45ee-bd2b-6d4e63caaed0)
 # The second part
 Code file 1
 ```swift
